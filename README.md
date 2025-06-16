@@ -15,7 +15,7 @@
   </a>
 </p>
 
-# Github Action: Get current PR
+# Github Action: Get current PR blah
 
 Github Action for checking if the current commit belongs to a pull request and returning the full PR object if that is the case
 
